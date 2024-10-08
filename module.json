@@ -14,5 +14,5 @@
     "styles": ["style/style.css"],
     "esmodules": [],
     "socket": false,
-    "manifest": "G:/DungeonsNDragons/FoundryVTT/module_dev/mmo_equip/module.json"
+    "manifest": "https://github.com/Konr99/mmo_equip/edit/main/module.json"
   }
