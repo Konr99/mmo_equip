@@ -10,8 +10,8 @@
     ],
     "minimumCoreVersion": "10",
     "compatibleCoreVersion": "10",
-    "scripts": ["scripts/script.js"],
-    "styles": ["style/style.css"],
+    "scripts": ["script.js"],
+    "styles": ["style.css"],
     "esmodules": [],
     "socket": false,
     "manifest": "https://github.com/Konr99/mmo_equip/edit/main/module.json"
